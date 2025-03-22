@@ -16,67 +16,63 @@
     </filter>
   </defs>
   
-  <!-- Base shape with softer corners and rounded top -->
-  <path d="M256 56
-           Q236 66, 216 86
-           Q156 126, 126 186
-           Q96 246, 96 276
-           Q96 346, 176 426
-           Q256 466, 336 426
-           Q416 346, 416 276
-           Q416 246, 386 186
-           Q356 126, 296 86
-           Q276 66, 256 56
+  <!-- Base shape with softer corners -->
+  <path d="M256 66
+           C226 66, 196 76, 166 96
+           C126 136, 96 186, 86 236
+           C76 286, 76 316, 96 366
+           C116 416, 186 446, 256 456
+           C326 446, 396 416, 416 366
+           C436 316, 436 286, 426 236
+           C416 186, 386 136, 346 96
+           C316 76, 286 66, 256 66
            Z" 
         fill="#313638" filter="url(#blur)" opacity="0.15"/>
   
-  <!-- Main crystal body with rounded top -->
-  <path d="M256 76
-           Q236 86, 216 106
-           Q166 146, 136 196
-           Q106 246, 106 276
-           Q106 336, 176 406
-           Q256 446, 336 406
-           Q406 336, 406 276
-           Q406 246, 376 196
-           Q346 146, 296 106
-           Q276 86, 256 76
+  <!-- Main crystal body with rounded edges -->
+  <path d="M256 86
+           C226 86, 196 96, 166 116
+           C136 146, 106 186, 96 236
+           C86 286, 86 316, 106 366
+           C126 416, 186 436, 256 446
+           C326 436, 386 416, 406 366
+           C426 316, 426 286, 416 236
+           C406 186, 376 146, 346 116
+           C316 96, 286 86, 256 86
            Z" 
         fill="url(#mainGradient)"/>
   
-  <!-- Petal-like inner layers -->
-  <path d="M256 116
-           Q226 136, 196 176
-           Q166 216, 156 276
-           Q156 326, 206 376
-           Q256 406, 306 376
-           Q356 326, 356 276
-           Q346 216, 316 176
-           Q286 136, 256 116
+  <!-- Petal-like inner layers with smoother curves -->
+  <path d="M256 126
+           C216 136, 176 166, 156 206
+           C136 246, 136 286, 156 326
+           C176 366, 216 386, 256 396
+           C296 386, 336 366, 356 326
+           C376 286, 376 246, 356 206
+           C336 166, 296 136, 256 126
            Z" 
         fill="#d9dbf1" opacity="0.5" filter="url(#softBlur)"/>
   
-  <!-- Floral petal highlights -->
-  <path d="M256 156 Q226 196, 216 246 Q226 296, 256 316 Q286 296, 296 246 Q286 196, 256 156" 
+  <!-- Floral petal highlights with organic curves -->
+  <path d="M256 166 C226 196, 216 236, 226 276 C236 316, 256 326, 276 276 C286 236, 276 196, 256 166" 
         fill="#f9f9ed" opacity="0.4" filter="url(#petalBlur)"/>
-  <path d="M196 246 Q226 226, 256 236 Q286 226, 316 246 Q286 276, 256 286 Q226 276, 196 246" 
+  <path d="M196 246 C226 226, 256 236, 286 246 C276 276, 256 286, 236 276 C216 266, 196 246, 196 246" 
         fill="#f9f9ed" opacity="0.4" filter="url(#petalBlur)"/>
   
   <!-- Ethereal highlight spots -->
   <ellipse cx="220" cy="220" rx="45" ry="40" fill="#f9f9ed" opacity="0.6" filter="url(#softBlur)"/>
   <ellipse cx="290" cy="290" rx="35" ry="30" fill="#f9f9ed" opacity="0.4" filter="url(#softBlur)"/>
   
-  <!-- Subtle frost effect -->
-  <path d="M256 76
-           Q236 86, 216 106
-           Q166 146, 136 196
-           Q106 246, 106 276
-           Q106 336, 176 406
-           Q256 446, 336 406
-           Q406 336, 406 276
-           Q406 246, 376 196
-           Q346 146, 296 106
-           Q276 86, 256 76
+  <!-- Subtle frost effect with rounded edges -->
+  <path d="M256 86
+           C226 86, 196 96, 166 116
+           C136 146, 106 186, 96 236
+           C86 286, 86 316, 106 366
+           C126 416, 186 436, 256 446
+           C326 436, 386 416, 406 366
+           C426 316, 426 286, 416 236
+           C406 186, 376 146, 346 116
+           C316 96, 286 86, 256 86
            Z" 
         fill="none" stroke="#f9f9ed" stroke-width="1" opacity="0.15"/>
 </svg>
