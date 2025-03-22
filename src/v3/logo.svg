@@ -1,72 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="lightBlueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#A8E0FF"/>
-      <stop offset="50%" style="stop-color:#7AC7FF"/>
-      <stop offset="100%" style="stop-color:#5AB0FF"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-      <feOffset dx="2" dy="2" result="offsetblur"/>
-      <feComponentTransfer>
-        <feFuncA type="linear" slope="0.3"/>
-      </feComponentTransfer>
-      <feMerge>
-        <feMergeNode/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <g transform="translate(25, 25) scale(1.2)">
-    <!-- Main iceberg shape with enhanced size -->
-    <path d="
-      M200,30
-      l100,40
-      l50,70
-      l-25,90
-      l-75,50
-      l-90,25
-      l-85,-35
-      l-50,-80
-      l25,-80
-      l70,-50
-      z
-    " fill="url(#lightBlueGradient)" stroke="#ffffff" stroke-width="2" filter="url(#shadow)"/>
-    
-    <!-- Additional facets for enhanced depth -->
-    <path d="
-      M180,60
-      l70,25
-      l-25,70
-      l-60,35
-      l-45,-45
-      z
-    " fill="#8FD4FF" opacity="0.7"/>
-    
-    <path d="
-      M250,85
-      l45,45
-      l-15,60
-      l-55,25
-      z
-    " fill="#B8E7FF" opacity="0.5"/>
-    
-    <path d="
-      M160,120
-      l40,20
-      l-20,40
-      l-35,15
-      z
-    " fill="#C9EEFF" opacity="0.4"/>
-    
-    <!-- Highlight details -->
-    <path d="
-      M190,50
-      l40,15
-      l-10,30
-      l-35,-10
-      z
-    " fill="#FFFFFF" opacity="0.3"/>
-  </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- License: CC0. Made by SVG Repo: https://www.svgrepo.com/svg/298915/iceberg -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#CCE4F7;" d="M511.205,209.446h-54.404L355.22,48.569l-78.861-33.246l-86.656,49.061l-19.233,71.883
+	l-85.062,27.382l-6.531,64.748L0,306.771l2.512,112.42l32.154,6.145l0.028,0.009l69.805,22.097l34.163,39.689l95.456,9.546
+	l13.95-48.969l1.119,0.235l0.005,0.001l141.488,29.735l65.935-89.057l22.641-67.742l-0.001,0.001L511.205,209.446z M248.067,447.707
+	l0.001-0.003h0.001L248.067,447.707z"/>
+<polygon style="fill:#ACD4F3;" points="190.499,64.385 277.155,15.324 356.015,48.569 305.387,118.907 240.415,118.907 "/>
+<polygon style="fill:#8EC1ED;" points="457.41,209.15 373.535,278.73 305.387,118.907 356.015,48.569 "/>
+<polygon style="fill:#ACD4F3;" points="457.331,209.446 512,209.446 480.047,320.892 373.457,279.026 "/>
+<polygon style="fill:#8EC1ED;" points="240.415,118.907 129.409,292.703 190.499,64.385 "/>
+<polygon style="fill:#ACD4F3;" points="171.265,136.267 86.203,163.649 155.89,193.728 "/>
+<polygon style="fill:#CCE4F7;" points="86.203,163.649 79.672,228.397 0.795,306.771 129.409,292.703 155.89,193.728 "/>
+<polygon style="fill:#ACD4F3;" points="283.142,327.369 129.409,292.703 90.356,347.837 137.949,410.767 "/>
+<polygon style="fill:#8EC1ED;" points="283.142,327.369 234.912,496.677 139.457,487.131 137.949,410.767 "/>
+<polygon style="fill:#CCE4F7;" points="139.457,487.131 105.294,447.442 35.461,425.336 90.356,347.837 137.949,410.767 "/>
+<g>
+	<polygon style="fill:#8EC1ED;" points="35.461,425.336 3.307,419.191 0.795,306.771 129.409,292.703 	"/>
+	<polygon style="fill:#8EC1ED;" points="418.12,390.915 262.452,400 283.142,327.369 373.535,278.73 	"/>
+</g>
+<polygon style="fill:#ACD4F3;" points="457.41,388.622 391.474,477.679 248.862,447.707 262.452,400 "/>
 </svg>
