@@ -1,7 +1,6 @@
 # graupel
 a minimal browser for near and web4
-<br/>
-🧊 not iced, but yew
+
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
 
