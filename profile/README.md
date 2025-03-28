@@ -7,7 +7,7 @@ a minimal browser for near and web4
 
 graupel_browser
 <br/>
-🐱 CODE:
+🐱 CODE: 🚧
 
 
 
