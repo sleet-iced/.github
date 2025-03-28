@@ -9,12 +9,17 @@ a minimal browser for near and web4
 
 graupel_browser
 <br/>
+🧜‍♂️ a minimal browser for near and web4
+<br/>
+🐱 CODE: 🚧
+
+graupel_pages
+<br/>
+❄️ sample web4 pages made for graupel browser
 🐱 CODE: 🚧
 
 
-
-
-
+---
 
 iced_simplemoji
 <br/>
