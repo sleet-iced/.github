@@ -3,6 +3,8 @@ a minimal browser for near and web4
 <br/>
 🧊 not iced, but yew
 
+![](../src/sleet_banner_100px_7d84b2.svg)
+
 ---
 
 graupel_browser
@@ -20,5 +22,5 @@ a cool project, but not related to graupel.
 
 
 ---
-
+![](../src/sleet_banner_100px_7d84b2.svg)
 copyright 2025 by sleet.near
