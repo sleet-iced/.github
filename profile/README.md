@@ -21,6 +21,17 @@ graupel_pages
 
 ---
 
+
+hello
+<br/>
+some hello projects
+<br/>
+🐱 CODE: https://github.com/sleet-iced/iced_hello
+<br/>
+🐱 CODE: https://github.com/sleet-iced/tauri_hello_react
+
+
+
 iced_simplemoji
 <br/>
 a cool project, but not related to graupel.
