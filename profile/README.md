@@ -1,5 +1,5 @@
 # graupel
-an extension of the sleet playground focused on the development of apps with near and web4 integration
+an extension of the [sleet playground](https://github.com/sleetplayground) focused on the development of apps with near and web4 integration
 
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
