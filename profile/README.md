@@ -1,10 +1,13 @@
 # graupel
-a minimal browser for near and web4
+an extension of the sleet playground focused on the development of apps with near and web4 integration
 
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
 
 ---
+
+
+> A browser is a cool idea, but may be a ways off
 
 graupel_browser
 <br/>
