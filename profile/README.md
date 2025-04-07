@@ -39,7 +39,7 @@ some hello projects
 <br/>
 🐱 CODE: https://github.com/sleet-iced/tauri_hello_react
 <br/>
-🐱 CODE: https://github.com/sleet-iced/dioxus_hello?tab=readme-ov-file
+🐱 CODE: https://github.com/sleet-iced/dioxus_hello
 
 
 iced_simplemoji
