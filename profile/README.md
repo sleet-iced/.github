@@ -38,7 +38,8 @@ some hello projects
 🐱 CODE: https://github.com/sleet-iced/iced_hello
 <br/>
 🐱 CODE: https://github.com/sleet-iced/tauri_hello_react
-
+<br/>
+🐱 CODE: https://github.com/sleet-iced/dioxus_hello?tab=readme-ov-file
 
 
 iced_simplemoji
