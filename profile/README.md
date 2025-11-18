@@ -4,27 +4,15 @@ an extension of the [sleet playground](https://github.com/sleetplayground) focus
 
 ![](../src/sleet_banner_100px_7d84b2.svg)
 
----
-
-
-> A browser is a cool idea, but may be a ways off
-
-graupel_browser
-<br/>
-🧜‍♂️ a minimal browser for near and web4
-<br/>
-🐱 CODE: 🚧
-
-graupel_pages
-<br/>
-❄️ sample web4 pages made for graupel browser
-<br/>
-🐱 CODE: 🚧
-
 
 ---
 
-graupel_social
+
+Some ideas
+- graupel_browser
+- graupel_pages
+- graupel_social
+- trader_terminal
 
 
 
