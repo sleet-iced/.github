@@ -21,7 +21,7 @@ Some ideas
 
 hello
 <br/>
-some hello projects
+some hello projects - these where old pre near-kit days
 <br/>
 🐱 CODE: https://github.com/sleet-iced/iced_hello
 <br/>
