@@ -8,7 +8,7 @@ an extension of the [sleet playground](https://github.com/sleetplayground) focus
 
 hello
 <br/>
-some hello projects - these where old pre near-kit and gpui days
+some old hello projects - these are from pre near-kit and gpui days
 <br/>
 🐱 CODE: https://github.com/sleet-iced/iced_hello
 <br/>
