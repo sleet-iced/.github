@@ -6,6 +6,15 @@ an extension of the [sleet playground](https://github.com/sleetplayground) focus
 
 ---
 
+graupel-browser
+<br/>
+browse near natively
+<br/>
+https://github.com/sleet-iced/graupel-browser
+
+
+---
+
 hello
 <br/>
 some old hello projects - these are from pre near-kit and gpui days
